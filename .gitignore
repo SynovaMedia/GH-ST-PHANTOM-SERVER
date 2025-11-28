@@ -1,0 +1,17 @@
+# Rust build artifacts
+/target
+**/*.rs.bk
+Cargo.lock
+
+# GHØST personal state (NEVER commit these)
+ghost_state.bin
+reservoir.pt
+*.gh0st
+state/
+checkpoints/
+
+# Logs & temps
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
