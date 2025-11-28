@@ -1,0 +1,13 @@
+[package]
+name = "gh0st"
+version = "0.0.1"
+edition = "2021"
+description = "Idle time → your own unlimited AI. 100% offline, 100% yours."
+license = "MIT"
+repository = "https://github.com/YOUR_USERNAME/gh0st"
+keywords = ["ai", "llm", "offline", "chaos"]
+categories = ["science", "algorithms"]
+
+[dependencies]
+rand = "0.8"
+rayon = "1.10"
